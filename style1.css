@@ -1,0 +1,9 @@
+h1{color:#6c213f;}
+h1{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-weight: 7
+00;}
+h2{color: #813e7d; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.img_cat {
+    display: inline-block;
+    margin: -5px -50px;
+  }
